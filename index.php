@@ -9,13 +9,18 @@
 	<script type="text/javascript" charset="utf-8" src="js/jquery.tubular.1.0.js"></script>
     <script type="text/javascript" charset="utf-8" src="js/index.js"></script>
 </head>
-<body>
-<div id="wrapper" class="clearfix">
-	<div id="inset">
-		<a href="http://hartlys-home.com/">
-			<img src="img/hartly.jpg" height="100px" width="100px"/>
-		</a>
+<body class="ui move right reveal">
+	<div id="wrapper">
+		<div id="inset">
+			<a href="http://hartlys-home.com/">
+				<img src="img/hartly.png" height="100px" width="100px"/>
+			</a>
+		</div>
+	</div><!-- #wrapper -->
+	<div id="info" class="hidden content">
+		<h1> Hartly. </h1>
+		<p> This is that good good. </p>
 	</div>
-</div><!-- #wrapper -->
 </body>
 </html>
+
