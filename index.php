@@ -12,15 +12,20 @@
 <body class="ui move right reveal">
 	<div id="wrapper">
 		<div id="inset">
-			<a href="http://hartlys-home.com/">
+			<a href="http://soundcloud.com/hartlyshome/">
 				<img src="img/hartly.png" height="100px" width="100px"/>
 			</a>
 		</div>
 	</div><!-- #wrapper -->
 	<div id="info" class="hidden content">
-		<h1> Hartly. </h1>
-		<p> This is that good good. </p>
-	</div>
+		<h1> Directed by Carrington Scott </h1>
+                <h3> For Bless & See </h3>
+                <h3> IG: @_C4</h3>
+                <h2>_____________________________________</h2>
+	        <h1> Written and Performed by Hartly </h1>
+                <h3> Twitter/IG: @Hartlyshome </h3>
+                <h3> Contact info@hartlyshome.com </h3>
+        </div>
 </body>
 </html>
 
